@@ -60,13 +60,9 @@ Python engine for Polymarket 5-minute and 15-minute crypto Up/Down markets: Gamm
 
 <img align="right" width="300px" alt="Vectorix token launchpad" src="docs/assets/vectorix-web3-pump.png" />
 
-Frontend, backend, and bonding-curve contract for SPL token create, market create, and Raydium pool graduation.
+Frontend, backend, and bonding-curve contract for SPL token create, market create, and Raydium pool graduation — one repo.
 
-- [pump-fun-frontend](https://github.com/vectorix-cross/pump-fun-frontend)
-- [pump-fun-backend](https://github.com/vectorix-cross/pump-fun-backend)
-- [pump-fun-smart-contract](https://github.com/vectorix-cross/pump-fun-smart-contract)
-- [Solana-Pumpfun-Smart-Contract](https://github.com/vectorix-cross/Solana-Pumpfun-Smart-Contract)
-- [solana-token-launchpad](https://github.com/vectorix-cross/solana-token-launchpad)
+- [My-Pumpfun](https://github.com/vectorix-cross/My-Pumpfun) — `frontend/`, `backend/`, `contract/`
 
 <br clear="all" />
 
