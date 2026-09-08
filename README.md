@@ -1,5 +1,7 @@
 # Vectorix Web3 Projects
 
+**[PORTFOLIO VIEW SLIDESHOWS →](https://vectorix-cross.github.io/portfolio/)**
+
 **Vectorix** (`vectorix-cross`) — Polymarket trading bots, Solana token launch and memecoin pools, crypto trading automation, and on-chain market tooling.
 
 <img width="1536" height="1024" alt="Vectorix Web3 projects" src="docs/assets/vectorix-web3-hero.png" />
